@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.image img{
+    height: 30px;
+}
+.home ul{
+    display: flex;
+}
+.home ul li{
+    list-style: none;
+}
+.home ul a{
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 20px;
+    color: black;
+}
+.home ul a:hover{
+    color: lightcoral;
+}
+.home{
+    display: flex;
+}
+.one a{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    height: 35px;
+    width: 198px;
+    font-size: 24px;
+    padding-left: 19px;
+    padding-top: 3px;
+    margin-top: -7px;
+    border-radius: 10px;
+}
+.one a:hover{
+    color: lightcoral;
+}
+.mid{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    width: 50%;
+    margin-left: 150px;
+    margin-top: 63px;
+}
+.content h1{
+    font-size: 66px;
+    width: 600px;
+}
+.content p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.image2{
+    width: 50%;
+}
+.mid2{
+    margin-top: 110px;
+    text-align: center;
+}
+.image3{
+    margin-top: 40px;
+    padding-bottom: 120px;
+}
+.image3 img{
+    height: 142px;
+    width: 238px;
+    padding: 36px;
+}
+.mid3{
+    
+}
+.meet h1{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.qualify{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image4 img{
+   height: 150px;
+   width: 150px; 
+}
