@@ -80,7 +80,7 @@
     padding: 36px;
 }
 .mid3{
-    
+    padding-bottom: 150px;
 }
 .meet h1{
     font-size: 50px;
@@ -90,8 +90,165 @@
 .qualify{
     display: flex;
     justify-content: space-evenly;
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 20px;
 }
 .image4 img{
    height: 150px;
-   width: 150px; 
 }
+.image4{
+    border: 1px solid black;
+    width: 280px;
+    border-radius: 20px;
+}
+.qualify p{
+    width: 200px;
+}
+.qualify h3{
+    margin-left: 50px;
+    margin-top: 10px
+}
+.qualify h5{
+    margin-left: 32px;
+    margin-top: 18px;
+    color: gray;
+}
+.qualify p{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.qualify ul{
+    list-style: none;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+    margin-left: 20px;
+
+}
+.qualify li{
+    padding-left: 8px;
+    background-color: gray;
+    margin-top: 11px;
+    margin-left: 9px;
+    padding-right: 11px;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+}
+.hi{
+    margin-left: 57px;
+}
+.hi1{
+    margin-left: 33px;
+}
+.hi2{
+    margin-left: 67px;
+}
+.hi3{
+    margin-left: 50px;
+}
+.image5{
+    background-image: url("image/cloudbase11.jpeg");
+    width: 100%;
+    background-size: cover;
+     text-align: center;
+     padding-bottom: 5rem;
+}
+.our h1{
+    font-size: 66px;
+    color: white;
+    padding-top: 80px;
+}
+.features{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    text-align: center;
+}
+.hello{
+    background-color: rgba(0,0,0,0.5);
+    width: 350px;
+    border-radius: 20px;
+}
+.hello img{
+    height: 79px;
+    width: 104px;
+    padding-top: 20px;
+}
+.hello h1{
+    color: white;
+    margin-top: 75px;
+    font-size: 22px;
+}
+.hello p{
+    color: white;
+    font-size: 27px;
+    width: 300px;
+    margin-top: 19px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.imp h1{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 55px;
+}
+.hello1{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    width: 340px;
+}
+.hello1 img{
+    height: 130px;
+    width: 110px;
+    padding-top: 20px;
+    
+}
+.hello1 h1{
+    color: white;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.hello1 p{
+    color: white;
+    font-size: 27px;
+    width: 300px;
+    margin-top: 23px;
+    margin-left: 20px;
+    padding-bottom: 50px;
+}
+.talent h1{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 60px;
+    width: 50%;
+    padding-top: 80px;
+}
+.activity{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    width: 90%;
+}
+.activity img{
+    height: 60px;
+    width: 60px;
+}
+.image6{
+    width: 33%;
+    padding: 55px 67px;
+    text-align: left;
+}
+.image6 h2{
+    color: rgba(42, 30, 30, 0.93);
+    padding-top: 25px;
+}
+.image6 p{
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: justify;
+}
+
