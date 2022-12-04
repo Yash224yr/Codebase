@@ -343,6 +343,7 @@
 }
 .bottom{
     background-color: #4719ff;
+    padding-bottom: 200px;
 }
 .image7{
     border-bottom: 2px solid white;
@@ -351,4 +352,24 @@
 }
 .image7 img{
     height: 100px;
+}
+.last{
+    margin: 0 220px;
+    padding-top: 20px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+.last a{
+    color: white;
+    font-size: 25px;
+    padding: 7px;
+}
+.service{
+    display: flex;
+}
+.service h3{
+    padding: 0 30px;
+    color: white;
 }
