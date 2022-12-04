@@ -341,3 +341,14 @@
     color: white;
     padding: 0 20px;
 }
+.bottom{
+    background-color: #4719ff;
+}
+.image7{
+    border-bottom: 2px solid white;
+    margin: 0 220px;
+    padding-top: 50px
+}
+.image7 img{
+    height: 100px;
+}
